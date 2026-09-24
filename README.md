@@ -1,7 +1,5 @@
 # Bank_Loan_Interactive_Excel_Dashboard
 
-# Bank_Loan_Interactive_Excel_Dashboard
-
 🏦 Bank Loan Report -
 
 An interactive Bank Loan Analysis project developed in Microsoft Excel to transform 38,576 loan records across 24 attributes into meaningful KPIs, performance reports, and interactive visualizations.
